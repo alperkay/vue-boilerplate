@@ -1,5 +1,5 @@
 <template>
-  <h1>HI THERE SWEETHEART! HOW ARE YOU? bok</h1>
+  <h1>HI THERE SWEETHEART! HOW ARE YOU?</h1>
 </template>
 
 <script lang="ts">
